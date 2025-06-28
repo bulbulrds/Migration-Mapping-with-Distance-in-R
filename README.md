@@ -12,3 +12,6 @@ Create a Bangladeshi migration map with 50+ demo data points, showing migration 
 * dplyr
 * maps
 * mapdata
+
+**Map Image:**
+![Map of Bangladesh with Migration Paths](https://github.com/user-attachments/assets/fcfd6187-ec5e-4d9f-9c1f-8a1b8842abc4)
